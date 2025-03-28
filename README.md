@@ -26,7 +26,7 @@ Data Sources: CSV file
 
 ## Dashboard
 
-<!-- Uploading "Recording 2025-03-28 151318.mp4"... -->
+https://github.com/user-attachments/assets/900b6a50-4210-43ef-ad88-ec02a4953407
 
 ## How to Use
 
