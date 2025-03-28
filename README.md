@@ -4,7 +4,7 @@
 
 This Sales Performance Dashboard provides a comprehensive overview of key business metrics, including total sales, total boxes sold, total cost, total shipments, and total profit. It visualizes sales trends, shipping distributions, and individual salesperson performance using interactive charts and tables.
 
-##Features
+## Features
 
 Key Performance Indicators (KPIs): Displays total sales, boxes sold, costs, shipments, and profit.
 
@@ -18,16 +18,17 @@ Geographical Filtering: Allows filtering sales data by different regions such as
 
 Progress Indicators: A circular gauge displaying overall performance percentage.
 
-Technologies Used
+## Technologies Used
 
 Power BI: For data visualization and interactive dashboard creation.
 
 Data Sources: CSV file
 
-##Dashboard
-(https://drive.google.com/file/d/1_KDXPbH2JdHzX4hmRZYBA7RSKq68zeWM/view?usp=sharing)
+Dashboard
 
-How to Use
+
+
+## How to Use
 
 Navigate the Dashboard: Use the sidebar to filter data by category or region.
 
@@ -39,12 +40,11 @@ Monitor Shipments: View the bar chart for insights into shipment distributions.
 
 Evaluate Sales Team: Identify top-performing salespeople through the detailed table.
 
-Customization
+## Customization
 
 Modify data sources to integrate real-time business data.
 
 Adjust visualization styles to align with branding.
 
 Add additional filters or breakdowns for deeper analysis.
-
 
